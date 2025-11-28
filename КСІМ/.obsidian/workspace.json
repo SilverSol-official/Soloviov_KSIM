@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ef1e5b2f0de99bbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5920168300aaa2b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc87f3bbdb1000e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LB1/Лабораторна робота №1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лабораторна робота №1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ca7534765f1dd6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee258238cdc961d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66e88a63bbd3dd68",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed6e1df8106481c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f555aeedde214c0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f82cbaaa22f462c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2af97f2799a63b50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bfa00f335ae408a",
+    "type": "split",
+    "children": [
+      {
+        "id": "03929614c9f70b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f37a9eb5245a7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LB1/Лабораторна робота №1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лабораторна робота №1"
+            }
+          },
+          {
+            "id": "df1972f745520eac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LB1/Лабораторна робота №1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лабораторна робота №1"
+            }
+          },
+          {
+            "id": "23f28ffa3d7a823b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f991285fefae8a8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LB1/Лабораторна робота №1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лабораторна робота №1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f555aeedde214c0e",
+  "lastOpenFiles": [
+    "LB1/Pasted image 20251128213632.png",
+    "LB1/Pasted image 20251128213616.png",
+    "LB1/Pasted image 20251128213553.png",
+    "Welcome.md",
+    "LB1/Лабораторна робота №1.md",
+    "LB4",
+    "LB3",
+    "LB2",
+    "LB1"
+  ]
+}
