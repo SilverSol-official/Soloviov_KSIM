@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Лабораторна робота №1"
             }
+          },
+          {
+            "id": "eec70ded0e253b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LB2/Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5ca7534765f1dd6b",
@@ -187,11 +202,13 @@
   },
   "active": "f555aeedde214c0e",
   "lastOpenFiles": [
+    "LB2/Pasted image 20251129215142.png",
+    "LB1/Лабораторна робота №1.md",
+    "LB2/Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo.md",
     "LB1/Pasted image 20251128213632.png",
     "LB1/Pasted image 20251128213616.png",
     "LB1/Pasted image 20251128213553.png",
     "Welcome.md",
-    "LB1/Лабораторна робота №1.md",
     "LB4",
     "LB3",
     "LB2",
