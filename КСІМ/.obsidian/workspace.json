@@ -25,14 +25,12 @@
             "id": "eec70ded0e253b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LB1/Лабораторна робота №1.md",
-                "mode": "source",
-                "source": false
+                "file": "LB1/Pasted image 20251224093806.png"
               },
-              "icon": "lucide-file",
-              "title": "Лабораторна робота №1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251224093806"
             }
           }
         ],
@@ -186,8 +184,8 @@
   },
   "active": "eec70ded0e253b33",
   "lastOpenFiles": [
-    "LB1/Pasted image 20251224093806.png",
     "LB1/Лабораторна робота №1.md",
+    "LB1/Pasted image 20251224093806.png",
     "LB1/Pasted image 20251128213632.png",
     "LB3/Лабораторна Робота №3. Оптимізація Імітаційної Моделі Поширення Хвороби Засобами BehaviorSearch.md",
     "Untitled",
