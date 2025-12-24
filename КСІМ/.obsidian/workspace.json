@@ -27,32 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LB3/Лабораторна Робота №3. Оптимізація Імітаційної Моделі Поширення Хвороби Засобами BehaviorSearch.md",
+                "file": "LB1/Лабораторна робота №1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лабораторна Робота №3. Оптимізація Імітаційної Моделі Поширення Хвороби Засобами BehaviorSearch"
+              "title": "Лабораторна робота №1"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "5ca7534765f1dd6b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cee258238cdc961d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +184,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "f555aeedde214c0e",
+  "active": "eec70ded0e253b33",
   "lastOpenFiles": [
-    "LB3/Pasted image 20251130131739.png",
+    "LB1/Pasted image 20251224093806.png",
+    "LB1/Лабораторна робота №1.md",
+    "LB1/Pasted image 20251128213632.png",
     "LB3/Лабораторна Робота №3. Оптимізація Імітаційної Моделі Поширення Хвороби Засобами BehaviorSearch.md",
+    "Untitled",
+    "LB2/Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo.md",
+    "LB3/Pasted image 20251130131739.png",
     "LB3/Untitled.md",
     "LB3/Pasted image 20251130131748.png",
     "LB3/Pasted image 20251130132857.png",
@@ -211,12 +200,8 @@
     "LB3/Pasted image 20251130132626.png",
     "LB3/Pasted image 20251130132554.png",
     "LB3/Pasted image 20251130131802.png",
-    "LB2/Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo.md",
     "LB3/Untitled",
     "LB2/Pasted image 20251129215142.png",
-    "LB1/Лабораторна робота №1.md",
-    "LB1/Pasted image 20251128213632.png",
-    "LB1/Pasted image 20251128213616.png",
     "Welcome.md",
     "LB4",
     "LB3",
